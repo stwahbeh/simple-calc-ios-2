@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "simple-calc/CalcViewController.swift"
+            timestampString = "500683431.711383"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "calculate(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "simple-calc/CalcViewController.swift"
+            timestampString = "500683431.711383"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "CalcViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "simple_calc.CalcViewController.(historyLabel in _8B8454CDC84287E595194E247659880C).setter : Swift.Array&lt;__ObjC.UILabel&gt;"
+                  moduleName = "simple-calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/simba/code/simple-calc-ios-2/simp-clac-iOS/simple-calc/simple-calc/CalcViewController.swift"
+                  timestampString = "500433858.547768"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "simple_calc.CalcViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; simple_calc.CalcViewController"
+                  moduleName = "simple-calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/simba/code/simple-calc-ios-2/simp-clac-iOS/simple-calc/simple-calc/CalcViewController.swift"
+                  timestampString = "500433858.550676"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "simple_calc.CalcViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;simple_calc.CalcViewController&gt;"
+                  moduleName = "simple-calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/simba/code/simple-calc-ios-2/simp-clac-iOS/simple-calc/simple-calc/CalcViewController.swift"
+                  timestampString = "500433858.553544"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "525">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "simple-calc/CalcViewController.swift"
+            timestampString = "500683431.711383"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "CalcViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "simple_calc.CalcViewController.history.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "simple-calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/simba/code/simple-calc-ios-2/simp-clac-iOS/simple-calc/simple-calc/CalcViewController.swift"
+                  timestampString = "500683433.068217"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "simple_calc.CalcViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; simple_calc.CalcViewController"
+                  moduleName = "simple-calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/simba/code/simple-calc-ios-2/simp-clac-iOS/simple-calc/simple-calc/CalcViewController.swift"
+                  timestampString = "500683433.070854"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "simple_calc.CalcViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;simple_calc.CalcViewController&gt;"
+                  moduleName = "simple-calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/simba/code/simple-calc-ios-2/simp-clac-iOS/simple-calc/simple-calc/CalcViewController.swift"
+                  timestampString = "500683433.073531"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "225">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "simple-calc/AppDelegate.swift"
+            timestampString = "500683537.371527"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "simple_calc.AppDelegate.init () -&gt; simple_calc.AppDelegate"
+                  moduleName = "simple-calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/simba/code/simple-calc-ios-2/simp-clac-iOS/simple-calc/simple-calc/AppDelegate.swift"
+                  timestampString = "500683605.687767"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "simple_calc.AppDelegate.__allocating_init () -&gt; simple_calc.AppDelegate"
+                  moduleName = "simple-calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/simba/code/simple-calc-ios-2/simp-clac-iOS/simple-calc/simple-calc/AppDelegate.swift"
+                  timestampString = "500683605.694421"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "simple-calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/simba/code/simple-calc-ios-2/simp-clac-iOS/simple-calc/simple-calc/AppDelegate.swift"
+                  timestampString = "500683605.702849"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
